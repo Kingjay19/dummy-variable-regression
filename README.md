@@ -5,4 +5,9 @@ Dummy variable regression analysis of GTBank revenue trends based on three diffe
 
 ## Tools used: R, Microsoft Excel and RStudio (IDE)
 ### Packages Used
-1. 
+1. dplyr
+2. tidyr
+3. broom
+4. ggplot2
+5. car
+6. lmtest
